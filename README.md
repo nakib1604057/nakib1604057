@@ -1,7 +1,7 @@
 # Md. Akram Hossain
 
-**Software Engineer | .NET | WinUI | Full Stack Web Development**  
-📍 Dhaka, Bangladesh | 📧 akramnakib9857@gmail.com | [LinkedIn](https://linkedin.com/in/akram-hossain-nakib) | [GitHub](https://github.com/nakib1604057)
+**Sr. Software engineer | .NET | WinUI | Full Stack Web Development**  
+📍 Dhaka, Bangladesh | 📧 akramnakib9857@gmail.com | [LinkedIn](https://linkedin.com/in/akram-hossain-nakib) 
 
 ---
 
@@ -48,7 +48,6 @@ MVVM, REST APIs, Git, GitHub, GRPC, IPC, System Optimization
 📧 akramnakib9857@gmail.com  
 📱 +880 1710 203288  
 🔗 [LinkedIn](https://linkedin.com/in/akram-hossain-nakib)  
-🔗 [GitHub](https://github.com/nakib1604057)
 
 ---
 
